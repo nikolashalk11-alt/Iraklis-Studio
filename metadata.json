@@ -1,0 +1,6 @@
+{
+  "name": "Iraklis Studio - Gym Ioannina",
+  "description": "Εξαιρετικά εξοπλισμένο γυμναστήριο στα Ιωάννινα με κορυφαίο εξοπλισμό δύναμης, ωράριο λειτουργίας και στοιχεία επικοινωνίας.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
